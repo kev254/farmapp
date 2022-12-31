@@ -19,6 +19,5 @@ Fetch given farmer fertilizer usage record: https://www.wscsd.co/farmer/register
  <img src="https://github.com/kev254/farmapp/blob/master/s1.png" width="30%" title="hover text">
   <img src="https://github.com/kev254/farmapp/blob/master/s2.png" width="30%" title="hover text">
   <img src="https://github.com/kev254/farmapp/blob/master/s3.png" width="30%" title="hover text">
-  <img src="https://github.com/kev254/farmapp/blob/master/s4.png
-" width="30%" title="hover text">
+  <img src="https://github.com/kev254/farmapp/blob/master/s4.png" width="30%" title="hover text">
 
