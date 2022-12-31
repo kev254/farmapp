@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Elimusasa</string>
+    <string name="phoneformat">If using phone number, the format should be 07xxx or 01xxx</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="hello_blank_fragment">Hello fragment</string>
+    <string name="nav_header_desc">My Nav header</string>
+    <string-array name="Grade">
+        <item>Grade</item>
+        <item>PP1</item>
+        <item>PP2</item>
+        <item>Grade 1</item>
+        <item>Grade 2</item>
+        <item>Grade 3</item>
+    </string-array>
+    <string-array name="DescriptionOfDisability">
+        <item>Disability</item>
+        <item>Dumb</item>
+        <item>Deaf or hard of hearing</item>
+        <item>Physical disability</item>
+    </string-array>
+</resources>
