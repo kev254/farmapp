@@ -7,10 +7,16 @@ https://github.com/kev254/farmapp/tree/master
 https://www.figma.com/proto/YlMLD8DHGzVgZ537u6fp54/farmerapp?node-id=1%3A247&scaling=scale-down&page-id=0%3A1
 
 # Api urls
-Update fertilizer record: https://www.wscsd.co/farmer/fertilizer_request.php?farmerId={farmer_id}
-Login api: https://www.wscsd.co/farmer/register.php?apicall=login
-Signup api: https://www.wscsd.co/farmer/register.php?apicall=signup
-Fetch given farmer fertilizer usage record: https://www.wscsd.co/farmer/register.php?apicall=apply_fertilizer
+<ol>
+<li>Update fertilizer record: https://www.wscsd.co/farmer/fertilizer_request.php?farmerId={farmer_id}</li>
+<li>Login api: https://www.wscsd.co/farmer/register.php?apicall=login
+</li>
+<li>Signup api: https://www.wscsd.co/farmer/register.php?apicall=signup
+</li>
+<li>Fetch given farmer fertilizer usage record: https://www.wscsd.co/farmer/register.php?apicall=apply_fertilizer
+</li>
+
+</ol>
 
 # Screenshot
 
