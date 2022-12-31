@@ -1,4 +1,4 @@
-# farmapp
+# Farmapp
 
 https://github.com/kev254/farmapp/tree/master
 
